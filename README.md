@@ -1,2 +1,2 @@
-# blackjack-sfml
-Blackjack game using C++ and SFML
+# card duel
+card game using C++ and SFML
