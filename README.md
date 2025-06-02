@@ -1,7 +1,7 @@
 # card duel
 card game using C++ and SFML
 game developer
-https://youtu.be/JF6RDcXnVKI?si=dSxOY94VNZtmj-m-
+(https://youtu.be/JF6RDcXnVKI?si=dSxOY94VNZtmj-m-) 
 
 ![samplescreenshot](https://i.imgur.com/HDtWwa2.jpg)
 
